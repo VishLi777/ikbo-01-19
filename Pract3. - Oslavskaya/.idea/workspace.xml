@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="486eb578-0c33-4c56-878d-6fdce29925fc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1hUY3hK0doJX1lOC4jTJUU1YulC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.ShapeTest (1)">
+    <configuration name="ShapeTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.mirea.pract3.n2.ShapeTest" />
+      <module name="Pract3. - Oslavskaya" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.mirea.pract3.n2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShapeTest (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.mirea.pract3.n3.ShapeTest" />
+      <module name="Pract3. - Oslavskaya" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.mirea.pract3.n3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShapeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.mirea.pract3.n1.ShapeTest" />
+      <module name="Pract3. - Oslavskaya" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.mirea.pract3.n1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMovable (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.mirea.pract3.n5.TestMovable" />
+      <module name="Pract3. - Oslavskaya" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.mirea.pract3.n5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMovable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.mirea.pract3.n4.TestMovable" />
+      <module name="Pract3. - Oslavskaya" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.mirea.pract3.n4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ShapeTest (1)" />
+        <item itemvalue="Application.TestMovable (1)" />
+        <item itemvalue="Application.TestMovable" />
+        <item itemvalue="Application.ShapeTest (2)" />
+        <item itemvalue="Application.ShapeTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="486eb578-0c33-4c56-878d-6fdce29925fc" name="Default Changelist" comment="" />
+      <created>1600066940721</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600066940721</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="254" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600069956674">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="254" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/62.0.1474.864@62.0.1474.864" timestamp="1600069956674" />
+    <state width="1431" height="224" key="GridCell.Tab.0.bottom" timestamp="1600160143418">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="224" key="GridCell.Tab.0.bottom/62.0.1474.864@62.0.1474.864" timestamp="1600160143418" />
+    <state width="1431" height="224" key="GridCell.Tab.0.center" timestamp="1600160143416">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="224" key="GridCell.Tab.0.center/62.0.1474.864@62.0.1474.864" timestamp="1600160143416" />
+    <state width="1431" height="224" key="GridCell.Tab.0.left" timestamp="1600160143415">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="224" key="GridCell.Tab.0.left/62.0.1474.864@62.0.1474.864" timestamp="1600160143415" />
+    <state width="1431" height="224" key="GridCell.Tab.0.right" timestamp="1600160143417">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="224" key="GridCell.Tab.0.right/62.0.1474.864@62.0.1474.864" timestamp="1600160143417" />
+    <state x="496" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1601324428384">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="496" y="256" key="com.intellij.ide.util.TipDialog/62.0.1474.864@62.0.1474.864" timestamp="1601324428384" />
+    <state x="240" y="53" key="new project wizard" timestamp="1600156646674">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="240" y="53" key="new project wizard/62.0.1474.864@62.0.1474.864" timestamp="1600156646674" />
+  </component>
+</project>

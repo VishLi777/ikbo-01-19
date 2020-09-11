@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="06adc827-ac88-4633-9346-6f297314f11b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1hXHkIX4x1YsDvtIOmJV5yxfxnU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Lab1/src/ru/mirea/lab1/Main.java" />
+  </component>
+  <component name="RunManager" selected="Application.TestN">
+    <configuration name="TestN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.mirea.lab4.n1.TestN" />
+      <module name="Lab4. - Oslavskaya" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.mirea.lab4.n1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.mirea.lab4.n2.TestP" />
+      <module name="Lab4. - Oslavskaya" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.mirea.lab4.n2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestN" />
+        <item itemvalue="Application.TestP" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="06adc827-ac88-4633-9346-6f297314f11b" name="Default Changelist" comment="" />
+      <created>1600150657701</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600150657701</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="580" y="187" key="FileChooserDialogImpl" timestamp="1600152280680">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="580" y="187" key="FileChooserDialogImpl/62.0.1474.864@62.0.1474.864" timestamp="1600152280680" />
+    <state width="1431" height="224" key="GridCell.Tab.0.bottom" timestamp="1601324766683">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="224" key="GridCell.Tab.0.bottom/62.0.1474.864@62.0.1474.864" timestamp="1601324766683" />
+    <state width="1431" height="224" key="GridCell.Tab.0.center" timestamp="1601324766683">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="224" key="GridCell.Tab.0.center/62.0.1474.864@62.0.1474.864" timestamp="1601324766683" />
+    <state width="1431" height="224" key="GridCell.Tab.0.left" timestamp="1601324766683">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="224" key="GridCell.Tab.0.left/62.0.1474.864@62.0.1474.864" timestamp="1601324766683" />
+    <state width="1431" height="224" key="GridCell.Tab.0.right" timestamp="1601324766683">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="224" key="GridCell.Tab.0.right/62.0.1474.864@62.0.1474.864" timestamp="1601324766683" />
+    <state x="496" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1601324675871">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="496" y="256" key="com.intellij.ide.util.TipDialog/62.0.1474.864@62.0.1474.864" timestamp="1601324675871" />
+  </component>
+</project>
